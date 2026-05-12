@@ -16,9 +16,7 @@
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
-  "engines": {
-    "node": ">20.x"
-  },
+  "engines": { "node": ">= 20" },
   "devDependencies": {
     "@repo/eslint-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
